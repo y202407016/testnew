@@ -1,1 +1,4 @@
 rebase test file
+
+modify rebase.txt
+:wq
